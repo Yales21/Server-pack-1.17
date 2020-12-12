@@ -1,0 +1,46 @@
+{
+    "variants": {
+        "distance=1": [
+		{ "model": "block/acacia_leaves_bushy" }, 
+		{ "model": "block/acacia_leaves_bushy1"}, 
+		{ "model": "block/acacia_leaves_bushy2"}, 
+		{ "model": "block/acacia_leaves_bushy3"}
+		],
+        "distance=2": [
+		{ "model": "block/acacia_leaves_bushy" }, 
+		{ "model": "block/acacia_leaves_bushy1"}, 
+		{ "model": "block/acacia_leaves_bushy2"}, 
+		{ "model": "block/acacia_leaves_bushy3"}
+		],
+        "distance=3": [
+		{ "model": "block/acacia_leaves_bushy" }, 
+		{ "model": "block/acacia_leaves_bushy1"}, 
+		{ "model": "block/acacia_leaves_bushy2"}, 
+		{ "model": "block/acacia_leaves_bushy3"}
+		],
+        "distance=4": [
+		{ "model": "block/acacia_leaves_bushy" }, 
+		{ "model": "block/acacia_leaves_bushy1"}, 
+		{ "model": "block/acacia_leaves_bushy2"}, 
+		{ "model": "block/acacia_leaves_bushy3"}
+		],
+        "distance=5": [
+		{ "model": "block/acacia_leaves_bushy" }, 
+		{ "model": "block/acacia_leaves_bushy1"}, 
+		{ "model": "block/acacia_leaves_bushy2"}, 
+		{ "model": "block/acacia_leaves_bushy3"}
+		],
+        "distance=6": [
+		{ "model": "block/acacia_leaves_bushy" }, 
+		{ "model": "block/acacia_leaves_bushy1"}, 
+		{ "model": "block/acacia_leaves_bushy2"}, 
+		{ "model": "block/acacia_leaves_bushy3"}
+		],
+        "distance=7": [
+		{ "model": "block/acacia_leaves_bushy" }, 
+		{ "model": "block/acacia_leaves_bushy1"}, 
+		{ "model": "block/acacia_leaves_bushy2"}, 
+		{ "model": "block/acacia_leaves_bushy3"}
+		]
+    }
+}

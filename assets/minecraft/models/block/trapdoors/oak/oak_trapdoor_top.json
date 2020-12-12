@@ -1,0 +1,92 @@
+{
+	"__comment": "3D Mesh designed with BDcraft Cubik - Version PRO 0.65 Beta",
+	"parent": "block/block",
+	"textures": {
+		"particle": "block/oak_trapdoor",
+		"texture": "block/oak_trapdoor",
+		"texture1": "ctm/trapdoors/oak/front"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Element",
+			"from": [ 10, 13, 6 ],
+			"to": [ 13, 16, 10 ],
+			"faces": {
+				"down": { "uv": [ 10, 10, 13, 6 ], "texture": "#texture" },
+				"up": { "uv": [ 10, 6, 13, 10 ], "texture": "#texture" },
+				"north": { "uv": [ 3, 0, 6, 3 ], "texture": "#texture1" },
+				"south": { "uv": [ 10, 0, 13, 3 ], "texture": "#texture1" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 3, 13, 6 ],
+			"to": [ 6, 16, 10 ],
+			"faces": {
+				"down": { "uv": [ 3, 10, 6, 6 ], "texture": "#texture" },
+				"up": { "uv": [ 3, 6, 6, 10 ], "texture": "#texture" },
+				"north": { "uv": [ 10, 0, 13, 3 ], "texture": "#texture1" },
+				"south": { "uv": [ 3, 0, 6, 3 ], "texture": "#texture1" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 6, 13, 3 ],
+			"to": [ 10, 16, 13 ],
+			"faces": {
+				"down": { "uv": [ 6, 13, 10, 3 ], "texture": "#texture" },
+				"up": { "uv": [ 6, 3, 10, 13 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 0, 13, 3 ], "texture": "#texture1" },
+				"east": { "uv": [ 3, 0, 13, 3 ], "texture": "#texture1" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 13, 13, 3 ],
+			"to": [ 16, 16, 13 ],
+			"faces": {
+				"down": { "uv": [ 13, 13, 16, 3 ], "texture": "#texture" },
+				"up": { "uv": [ 13, 3, 16, 13 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 0, 13, 3 ], "texture": "#texture1" },
+				"east": { "uv": [ 3, 0, 13, 3 ], "texture": "#texture1" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 13, 3 ],
+			"to": [ 3, 16, 13 ],
+			"faces": {
+				"down": { "uv": [ 0, 13, 3, 3 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 3, 3, 13 ], "texture": "#texture" },
+				"west": { "uv": [ 3, 0, 13, 3 ], "texture": "#texture1" },
+				"east": { "uv": [ 3, 0, 13, 3 ], "texture": "#texture1" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 13, 13 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 16, 16, 13 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 13, 16, 16 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture1" },
+				"south": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture1" },
+				"west": { "uv": [ 13, 0, 16, 3 ], "texture": "#texture1" },
+				"east": { "uv": [ 0, 0, 3, 3 ], "texture": "#texture1" }
+			}
+		},
+		{
+			"__comment": "Element",
+			"from": [ 0, 13, 0 ],
+			"to": [ 16, 16, 3 ],
+			"faces": {
+				"down": { "uv": [ 0, 3, 16, 0 ], "texture": "#texture" },
+				"up": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture" },
+				"north": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture1" },
+				"south": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture1" },
+				"west": { "uv": [ 0, 0, 3, 3 ], "texture": "#texture1" },
+				"east": { "uv": [ 13, 0, 16, 3 ], "texture": "#texture1" }
+			}
+		}
+	]
+}

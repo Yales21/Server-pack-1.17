@@ -1,0 +1,23 @@
+{
+	"__comment": "Designed by Kikipunk with Cubik Studio - https://cubik.studio",
+	"textures": {
+		"particle": "block/iron_door_bottom",
+		"texture": "block/iron_door_bottom",
+		"texture1": "ctm/doors/iron/front",
+		"texture2": "ctm/doors/iron/side"
+	},
+	"elements": [ 	 
+		{
+			"__comment": "Box1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 3, 16, 16 ],
+			"faces": {
+				"down": { "uv": [ 0, 0, 16, 3 ], "texture": "#texture1", "rotation": 270 },
+				"north": { "uv": [ 13, 0, 16, 16 ], "texture": "#texture2" },
+				"south": { "uv": [ 0, 0, 3, 16 ], "texture": "#texture2" },
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#texture" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#texture" }
+			}
+		}
+	]
+}

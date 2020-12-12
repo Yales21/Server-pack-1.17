@@ -1,0 +1,155 @@
+{
+    "__createdwith": "BDcraft Cubik",
+    "ambientocclusion": false,
+    "textures": {
+		"particle":"block/ladder",
+        "oak_planks": "block/oak_planks"
+    },
+    "elements": [
+        {
+            "from": [0.5,13,14],
+            "to": [15.5,15,16],
+            "faces": {
+                "up": {
+                    "texture": "#oak_planks"
+                },
+                "down": {
+                    "texture": "#oak_planks"
+                },
+                "west": {
+                    "texture": "#oak_planks"
+                },
+                "east": {
+                    "texture": "#oak_planks"
+                },
+                "north": {
+                    "texture": "#oak_planks"
+                },
+                "south": {
+                    "uv": [0,4.5,16,5.75],
+                    "texture": "#oak_planks"
+                }
+            }
+        },
+        {
+            "from": [0.5,9,14],
+            "to": [15.5,11,16],
+            "faces": {
+                "up": {
+                    "texture": "#oak_planks"
+                },
+                "down": {
+                    "texture": "#oak_planks"
+                },
+                "west": {
+                    "texture": "#oak_planks"
+                },
+                "east": {
+                    "texture": "#oak_planks"
+                },
+                "north": {
+                    "texture": "#oak_planks"
+                },
+                "south": {
+                    "texture": "#oak_planks"
+                }
+            }
+        },
+        {
+            "from": [0.5,1,14],
+            "to": [15.5,3,16],
+            "faces": {
+                "up": {
+                    "texture": "#oak_planks"
+                },
+                "down": {
+                    "texture": "#oak_planks"
+                },
+                "west": {
+                    "texture": "#oak_planks"
+                },
+                "east": {
+                    "texture": "#oak_planks"
+                },
+                "north": {
+                    "texture": "#oak_planks"
+                },
+                "south": {
+                    "texture": "#oak_planks"
+                }
+            }
+        },
+        {
+            "from": [0.5,5,14],
+            "to": [15.5,7,16],
+            "faces": {
+                "up": {
+                    "texture": "#oak_planks"
+                },
+                "down": {
+                    "texture": "#oak_planks"
+                },
+                "west": {
+                    "texture": "#oak_planks"
+                },
+                "east": {
+                    "texture": "#oak_planks"
+                },
+                "north": {
+                    "texture": "#oak_planks"
+                },
+                "south": {
+                    "texture": "#oak_planks"
+                }
+            }
+        },
+        {
+            "from": [2.5,0,14.5],
+            "to": [4.5,16,16],
+            "faces": {
+                "up": {
+                    "texture": "#oak_planks"
+                },
+                "down": {
+                    "texture": "#oak_planks"
+                },
+                "west": {
+                    "texture": "#oak_planks"
+                },
+                "east": {
+                    "texture": "#oak_planks"
+                },
+                "north": {
+                    "texture": "#oak_planks"
+                },
+                "south": {
+                    "texture": "#oak_planks"
+                }
+            }
+        },
+        {
+            "from": [12,0,14.5],
+            "to": [14,16,16],
+            "faces": {
+                "up": {
+                    "texture": "#oak_planks"
+                },
+                "down": {
+                    "texture": "#oak_planks"
+                },
+                "west": {
+                    "texture": "#oak_planks"
+                },
+                "east": {
+                    "texture": "#oak_planks"
+                },
+                "north": {
+                    "texture": "#oak_planks"
+                },
+                "south": {
+                    "texture": "#oak_planks"
+                }
+            }
+        }
+    ]
+}
