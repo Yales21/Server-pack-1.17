@@ -1,0 +1,13 @@
+{
+  "type": "varied-mobs:baby",
+  "value": {
+        "type": "varied-mobs:pick",
+        "weights": [36, 48, 6, 1],
+        "choices": [
+          "minecraft:varied/textures/entity/chicken/chicken.png",
+          "minecraft:varied/textures/entity/chicken/chicken_baby.png",
+          "minecraft:varied/textures/entity/chicken/chicken_baby1.png",
+          "minecraft:varied/textures/entity/chicken/chicken_baby2.png"
+        ]
+      }
+}
