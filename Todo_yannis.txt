@@ -1,1 +1,26 @@
- 
+ Liste des models à fix :
+    -cloche                                        X
+    -brewing_stand                       X
+    -cauldron                                   X
+    -crimson-fungi ou fungus   X
+    -dead_bush                               X
+    -end_rod                                    X
+    -activator_rail                          X
+    -activator_rail_on                  X
+    -detector-rail                          X
+    -detector-rail-on                   X
+    -powered_rail_on                 X
+    -powered_rail                        X
+    -rail_corner                             X
+    -rail                                            X
+    -tripwire_hook                      X
+    -end-portal-frame-eye      X
+    
+
+    
+    
+Trucs randoms à fix:
+    -briques   
+    -comparator                      X
+    
+
