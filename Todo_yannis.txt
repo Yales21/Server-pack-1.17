@@ -15,6 +15,58 @@
     -rail                                            X
     -tripwire_hook                      X
     -end-portal-frame-eye      X
+    -beetroot                                X
+    
+Listes des models des entités à fix (important):
+    - bee (0/5)
+    - bell (0/1)
+    - boat (0/6)
+    - cat (0/13)
+    - chest -> tres important (0/10)
+    - chicken (0//6)
+    - cow (0/3)
+    - creeper (0/2)
+    - enderman (0/2)
+    - fish (0/17)
+    - fox (0/4)
+    - ghast (0/2)
+    - hoglin (0/2)
+    - horse (0/17)
+    - illager (0/8)
+    - iron_golem (0/4)
+    - llama (0/6)
+    - pig (0/2)
+    - piglin (0/3)
+    - projectiles (0/3)
+    - rabbit (0/8)
+    - sheep (0/2)
+    - shulker (0/18)
+    - signs (0/8)
+    - skeleton (0/5)
+    - slime (0/2)
+    - spider (0/2)
+    - turtle 0/1
+    - villager (0/31)
+    
+    
+    
+    
+    
+Listes des models des entités à fix (moins important):
+    - conduit (0/7)
+    - end_crystal (0/2)
+    - enderdragon (0/5)
+    - parrot (0/5)
+    - panda (0/7)
+    - banner / shield -> peut etre pas besoin (0/41, 0/41)
+    - strider (0/3)
+    - wither (0/3)
+    - wolf (0/4)
+    - zombie (0/5)
+    - zombie_villager(0/33)
+    
+    
+    
     
 
     
