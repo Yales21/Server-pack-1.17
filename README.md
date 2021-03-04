@@ -1,3 +1,2 @@
 # Server-pack-1.16.4
-My 1.16.4  32x texture pack created for my server. 
-Test
+This is a 128x pack that i am creating with The_Snowpickle (a lazy man).
