@@ -23,7 +23,7 @@ Listes des models des entités à fix (important):
     - boat (0/6)
     - cat (0/13)
     - chest -> tres important (0/10)
-    - chicken (0//6)
+    - chicken (0/6)
     - cow (0/3)
     - creeper (0/2)
     - enderman (0/2)
