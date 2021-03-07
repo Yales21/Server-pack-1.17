@@ -18,7 +18,7 @@
     -beetroot                                X
     
 Listes des models des entités à fix (important):
-    - bee (0/5)
+    - bee (5/5) 	X
     - bell (0/1)
     - boat (0/6)
     - cat (0/13)
