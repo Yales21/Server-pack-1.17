@@ -19,20 +19,20 @@
     
 Listes des models des entités à fix (important):
     - bee (5/5) 	X
-    - bell (0/1)
-    - boat (0/6)
-    - cat (0/13)
+    - bell (0/1) 
+    - boat (6/6)    X
+    - cat (13/13)   X
     - chest -> tres important (0/10)
-    - chicken (0//6)
-    - cow (0/3)
-    - creeper (0/2)
-    - enderman (0/2)
-    - fish (0/17)
-    - fox (0/4)
-    - ghast (0/2)
-    - hoglin (0/2)
-    - horse (0/17)
-    - illager (0/8)
+    - chicken (0/6)
+    - cow (3/3)     X
+    - creeper (2/2) X
+    - enderman (2/2) X
+    - fish (17/17)    X
+    - fox (4/4)     X
+    - ghast (2/2)   X
+    - hoglin (2/2)  X
+    - horse (17/17) X
+    - illager (8/8) X
     - iron_golem (0/4)
     - llama (0/6)
     - pig (0/2)
